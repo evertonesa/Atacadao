@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         List<ItemDoCardapio> cardapio = new ArrayList<>();
-        cardapio.add(new ItemDoCardapio(1, "Cafe 1kg", 53.00));
+        cardapio.add(new ItemDoCardapio(1, "Cafe 1 kg", 53.00));
         cardapio.add(new ItemDoCardapio(2, "Sabao em po", 36.00));
         cardapio.add(new ItemDoCardapio(3, "Caixa de Leite", 82.00));
         cardapio.add(new ItemDoCardapio(4, "Refrigerante", 8.50));
